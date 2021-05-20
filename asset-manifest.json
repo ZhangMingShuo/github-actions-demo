@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/github-actions-demo/static/css/main.f9c67ae1.chunk.css",
-    "main.js": "/github-actions-demo/static/js/main.a2fb5043.chunk.js",
-    "main.js.map": "/github-actions-demo/static/js/main.a2fb5043.chunk.js.map",
-    "runtime~main.js": "/github-actions-demo/static/js/runtime~main.dd1e6690.js",
-    "runtime~main.js.map": "/github-actions-demo/static/js/runtime~main.dd1e6690.js.map",
-    "static/js/2.032a9e91.chunk.js": "/github-actions-demo/static/js/2.032a9e91.chunk.js",
-    "static/js/2.032a9e91.chunk.js.map": "/github-actions-demo/static/js/2.032a9e91.chunk.js.map",
-    "index.html": "/github-actions-demo/index.html",
-    "precache-manifest.83eace3dbca5e6ab9e64f558e570e7d0.js": "/github-actions-demo/precache-manifest.83eace3dbca5e6ab9e64f558e570e7d0.js",
-    "service-worker.js": "/github-actions-demo/service-worker.js",
-    "static/css/main.f9c67ae1.chunk.css.map": "/github-actions-demo/static/css/main.f9c67ae1.chunk.css.map",
-    "static/media/logo.svg": "/github-actions-demo/static/media/logo.5d5d9eef.svg"
+    "main.css": "/github-actions-react-demo/static/css/main.f9c67ae1.chunk.css",
+    "main.js": "/github-actions-react-demo/static/js/main.953aafe7.chunk.js",
+    "main.js.map": "/github-actions-react-demo/static/js/main.953aafe7.chunk.js.map",
+    "runtime~main.js": "/github-actions-react-demo/static/js/runtime~main.a47aa5ad.js",
+    "runtime~main.js.map": "/github-actions-react-demo/static/js/runtime~main.a47aa5ad.js.map",
+    "static/js/2.032a9e91.chunk.js": "/github-actions-react-demo/static/js/2.032a9e91.chunk.js",
+    "static/js/2.032a9e91.chunk.js.map": "/github-actions-react-demo/static/js/2.032a9e91.chunk.js.map",
+    "index.html": "/github-actions-react-demo/index.html",
+    "precache-manifest.ca004b65535e6908f7cdb776ab87ff43.js": "/github-actions-react-demo/precache-manifest.ca004b65535e6908f7cdb776ab87ff43.js",
+    "service-worker.js": "/github-actions-react-demo/service-worker.js",
+    "static/css/main.f9c67ae1.chunk.css.map": "/github-actions-react-demo/static/css/main.f9c67ae1.chunk.css.map",
+    "static/media/logo.svg": "/github-actions-react-demo/static/media/logo.5d5d9eef.svg"
   }
 }
